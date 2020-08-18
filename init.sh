@@ -1,0 +1,1 @@
+echo "### execucao inicial do projeto ###"
